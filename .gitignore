@@ -1,0 +1,8 @@
+Progress_tasks/Day_6_open_cv/extracted_frames/
+
+*.mp4
+*.mov
+*.MOV
+
+.DS_Store
+
